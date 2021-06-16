@@ -1,1 +1,1 @@
-**Hi, I am a historian who is interested in applying computational methods in historical research. My research focuses on state-building and contemporary East Asia. I believe computational methods, particularly Machine Learning, will reshape the way of how we approach the past.**
+**I am a historian who is interested in applying computational methods in historical research. My research focuses on state-building and contemporary East Asia. I believe computational methods, particularly Machine Learning, will reshape the way of how we approach the past.**
